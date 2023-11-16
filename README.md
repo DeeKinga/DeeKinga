@@ -8,10 +8,3 @@ This Course is completed with an online QA course from Udemy.
 
 My LinkedIn profile: www.linkedin.com/in/kinga-farkas-dee
 My Udemy courses: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/
-
-
-
-
-DeeKinga/DeeKinga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
