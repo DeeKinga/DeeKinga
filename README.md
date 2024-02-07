@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FarkasDeeKinga and this is my GitHub portfolio.
+- 👋 Hi, I’m Farkas Dee Kinga and this is my GitHub portfolio.
 - 👀 I’m interested in Quality Assurance Software Testing.
 - 💞️ I’m looking to collaborate on Software Testing opportunities.
 
