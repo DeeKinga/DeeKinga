@@ -7,4 +7,7 @@ Prepared using all the knowledge that I had acquired during the manual testing c
 This Course is completed with an online QA course from Udemy.
 
 My LinkedIn profile: www.linkedin.com/in/kinga-farkas-dee <br/>
-My Udemy courses: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/
+My Udemy courses:</br>
+* https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ </br>
+* https://www.udemy.com/course/introducere-in-baze-de-date-mysql/ </br>
+* https://www.udemy.com/course/testare-automata-selenium-python-pom/ </br>
